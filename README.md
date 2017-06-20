@@ -5,3 +5,5 @@ This is a noise cancel program for ALSA devices, which reads input from micropho
 It is not that good because of a time lag.
 
 Try to fix it by implementing it in C afterwards.
+
+Licensed under AGPL v3 by JSSE Team of SJC Hong Kong.
