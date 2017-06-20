@@ -9,10 +9,7 @@
 ## writing the data to standard out.
 ##
 ## To test it out do the following:
-## python recordtest.py out.raw # talk to the microphone
-## aplay -r 44100 -f S16_LE -c 1 out.raw
-
-#!/usr/bin/env python
+## python recordtest.py
 
 from __future__ import print_function
 
