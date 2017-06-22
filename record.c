@@ -1,3 +1,6 @@
+
+/* Compile with gcc -o noisecancel noisecancel.c -lasound */
+
 #include <alsa/asoundlib.h>
 #include <stdlib.h>
 
