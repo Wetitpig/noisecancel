@@ -2,7 +2,6 @@
 /* Compile with gcc -o noisecancel noisecancel.c -lasound */
 
 #include <alsa/asoundlib.h>
-#include <stdlib.h>
 
 #define likely(x)       __builtin_expect((x),1)
 
